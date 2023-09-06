@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backgrounds on UHAW</title>
+    <link>/backgrounds/</link>
+    <description>Recent content in Backgrounds on UHAW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jan 2022 20:14:33 +0100</lastBuildDate><atom:link href="/backgrounds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cardiff</title>
+      <link>/backgrounds/cardiff/</link>
+      <pubDate>Fri, 14 Jan 2022 20:14:33 +0100</pubDate>
+      
+      <guid>/backgrounds/cardiff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

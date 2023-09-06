@@ -1,0 +1,9 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'UHAW'
+#指定主题
+theme = "just-me"
+[params]
+  author = "xcsg"
+
+
